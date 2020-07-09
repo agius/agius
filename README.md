@@ -1,16 +1,18 @@
-### Hi there 👋
+### agius was my D&D character in high school
 
-<!--
-**agius/agius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+and now I'm stuck with it forever
 
-Here are some ideas to get you started:
+![atevans dot com logo](./logo.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+the logo from [my web sight](https://atevans.com)
+
+- 🔭 I’m currently working at [Trusted Health](https://github.com/trusted/) :woman_health_worker: :hospital: :man_health_worker:
+- 🌱 I’m currently learning [CodeQL](https://github.com/github/codeql)
+- 👯 I’m looking to collaborate on [codeql_ruby](https://github.com/agius/codeql_ruby)
+- 💬 Ask me about
+  - ruby :gem:
+  - rails :steam_locomotive:
+  - [prototype.js](http://prototypejs.org/) vs [script.aculo.us](https://script.aculo.us/) vs [jQuery](https://jquery.com/)
+  - DevSecOpsOmgWtfBbq
+- 📫 How to reach me: `henlo xX_at_Xx atevans xX_dot_Xx com`
+- :smile_cat: Pronouns: he/him
