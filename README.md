@@ -2,7 +2,7 @@
 
 and now I'm stuck with it forever
 
-![atevans dot com logo](./logo.png)
+![atevans dot com logo](https://github.com/agius/agius/raw/deff9ef5df5b6faf61a04fd9e1f04d1d2f365508/logo.png)
 
 the logo from [my web sight](https://atevans.com)
 
